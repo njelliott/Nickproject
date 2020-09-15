@@ -11,3 +11,7 @@ editor_options:
 Welcome to my research website.
 
 * [Teeth growth analysis](teeth.html)
+
+Haven't got your fill of tooth data? Check out Maggie's website:
+
+* [Maggie Steiner's page]( https://maggiesteiner.github.io/workflowr_tutorial/)

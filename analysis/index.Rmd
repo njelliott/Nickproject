@@ -10,4 +10,4 @@ editor_options:
 
 Welcome to my research website plebs.
 
-[Teeth growth analysis](teeth.html)
+* [Teeth growth analysis](teeth.html)

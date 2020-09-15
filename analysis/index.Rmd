@@ -8,6 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website plebs.
+Welcome to my research website.
 
 * [Teeth growth analysis](teeth.html)
